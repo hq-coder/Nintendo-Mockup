@@ -1,0 +1,54 @@
+
+.logo{
+    max-width: 15vh;
+    }
+
+.navbar-brand{
+   margin: 1px;
+}
+
+.splatoon{
+    max-height: 65vh;
+}
+
+h1{
+padding: 40px;
+background: linear-gradient(to bottom, #d3e2f1 0%, #f7f6d1 100%);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.btn-primary{
+    background-color: red;
+    border-color: red;
+   
+}
+.btn-primar:hover{
+    color: blue;
+    transition-duration: 2s;
+}
+
+.E_rating{
+    display: flex;
+    justify-content: center;
+}
+.rating{
+    width: 5vh;
+}
+
+h3{
+    display: inline;
+    font-size: small;
+}
+
+.container{
+    display:flex;
+  justify-content: space-evenly;
+}
+
+h2{
+    margin:30px 0 30px 15px;
+    opacity: 90%;
+    font-size: x-large;
+
+}
